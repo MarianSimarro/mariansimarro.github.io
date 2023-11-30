@@ -1,2 +1,2 @@
 ---
- <pdf src="msimarro.pdf">
+ <pdf file="msimarro.pdf">
