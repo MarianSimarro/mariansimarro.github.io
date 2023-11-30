@@ -13,7 +13,26 @@ In this project, we aimed to extend the CLS framework to the domain of acquiring
 
 See the [poster] I presented in SNL 2023!
 
-{% raw %}
-<div class="pdf-container">
-  <iframe src="{{ site.url }}assets/cls-bilingual-poster-2023.10.17c.pdf" width="100%" height="600" frameborder="0"></iframe>
-</div>
+<div id="pdf-container"></div>
+
+<script>
+  // Get the PDF URL
+  const pdfUrl = 'assets/cls-bilingual-poster-2023.10.17c.pdf';
+
+  // Initialize PDF.js
+  PDFJS.disableWorker = true;
+  PDFJS.getDocument(pdfUrl).then(function(pdf) {
+    // Get the first page
+    const page = pdf.getPage(1);
+
+    // Get the canvas element
+    const canvas = document.createElement('canvas');
+    const ctx = canvas.getContext('2d');
+
+    // Render the page to the canvas
+    page.render(canvas);
+
+    // Append the canvas to the container
+    document.getElementById('pdf-container').appendChild(canvas);
+  });
+</script>
