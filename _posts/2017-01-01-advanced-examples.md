@@ -13,4 +13,7 @@ In this project, we aimed to extend the CLS framework to the domain of acquiring
 
 See the [poster] I presented in SNL 2023!
 
-{% include embed.html file="assets/cls-bilingual-poster-2023.10.17c.pdf" %}
+{% raw %}
+<div class="pdf-container">
+  <iframe src="{{ site.url }}assets/cls-bilingual-poster-2023.10.17c.pdf" width="100%" height="600" frameborder="0"></iframe>
+</div>
