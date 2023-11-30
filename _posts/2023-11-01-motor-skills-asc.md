@@ -1,5 +1,5 @@
 ---
-title:  "Fine motor abilities of autistics in late childhood through adolescence correlate with expressive verbal abilitie"
+title:  "Fine motor abilities of autistics in late childhood through adolescence correlate with expressive verbal abilities"
 layout: post
 ---
 > Marian Simarro González, Gessica Ni, Carly Demopoulos (In prep).
