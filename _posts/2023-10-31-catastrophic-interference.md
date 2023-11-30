@@ -1,5 +1,5 @@
 ---
-title:  "Mitigating catastrophic interference in models of bilingual lexical acquisition"
+title:  "Mitigating catastrophic interference in models of bilingual lexical acquisition (In prep)"
 mathjax: true
 layout: post
 categories: media
