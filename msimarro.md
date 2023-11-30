@@ -1,2 +1,2 @@
 ---
- {% embed_pdf file:"msimarro.pdf" %}
+ <pdf src="msimarro.pdf">
