@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:m.simarro@bcbl.eu"}
   - {title: Github, icon: github, url: "https://github.com/MarianSimarro"}
-  - {title: Twitter, icon: <font-awesome-icon icon="twitter" />, url: "/feed.xml"}
-  - {title: LinkedIn, icon: <font-awesome-icon icon="linkedin" />, url: "/feed.xml"}
+  #- {title: Twitter, icon: <font-awesome-icon icon="twitter" />, url: "/feed.xml"}
+  - {title: LinkedIn, icon: <font-awesome-icon icon="linkedin" />, url: "https://www.linkedin.com/in/marian-simarro-gonzalez/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
