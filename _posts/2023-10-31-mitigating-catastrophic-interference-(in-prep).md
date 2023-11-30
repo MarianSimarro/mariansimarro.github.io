@@ -12,3 +12,4 @@ In this project, we aimed to extend the CLS framework to the domain of acquiring
 See the [poster] I presented in SNL 2023!
 
 {% include embed.html url="https://drive.google.com/file/d/1kzWGrIG7pF9ZzOqXFFU0ywedz1ylyG4Q/view" %}
+{% include embed_pdf "msimarro.pdf" %}
