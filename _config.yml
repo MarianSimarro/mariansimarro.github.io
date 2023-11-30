@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "msimarro.pdf", title: "CV"}
+  - {file: "research.md", title: "Recent/Ongoing Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:m.simarro@bcbl.eu"}
   - {title: Github, icon: github, url: "https://github.com/MarianSimarro"}
-  - {title: Subscribe, icon: <font-awesome-icon icon="twitter" />, url: "/feed.xml"}
+  - {title: Twitter, icon: <font-awesome-icon icon="twitter" />, url: "/feed.xml"}
   - {title: LinkedIn, icon: <font-awesome-icon icon="linkedin" />, url: "/feed.xml"}
 
 comments:
