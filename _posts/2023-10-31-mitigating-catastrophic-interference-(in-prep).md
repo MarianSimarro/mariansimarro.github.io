@@ -9,5 +9,5 @@ categories: media
 
 In this project, we aimed to extend the CLS framework to the domain of acquiring lexical knowledge in two languages to avoid catastrophic interference
 
-See the [poster] I presented in SNL 2023!
+See the [poster](https://drive.google.com/file/d/1kzWGrIG7pF9ZzOqXFFU0ywedz1ylyG4Q/view) I presented in SNL 2023!
 
