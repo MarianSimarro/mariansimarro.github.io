@@ -1,2 +1,2 @@
 ---
- <pdf file="msimarro.pdf">
+[Heres a link to my complete CV](/msimarro.pdf)
