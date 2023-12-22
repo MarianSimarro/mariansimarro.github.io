@@ -24,6 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/MarianSimarro"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/marian-simarro-gonzalez/"}
   - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/user/show/58986201-marian"}
+  - {title: Flickr, icon: flickr, url: "https://www.flickr.com/photos/199760758@N04/"}
   #- {title: Twitter, icon: <font-awesome-icon icon="twitter" />, url: "/feed.xml"}
 
 comments:
