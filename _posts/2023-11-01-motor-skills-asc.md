@@ -17,7 +17,7 @@ In sum, the prior research on motor development in ASD suggests that motor delay
 In the current study, we measured fine motor abilities of a group of autistic participants in late childhood through adolescence and examined associations between those motor skills and a wide range of verbal abilities. Based on prior research identifying fine motor differences in autism, we hypothesized that autistic participants will score lower on measures of fine motor speed, dexterity, and pencil motor control, but not manual motor strength. Based on early developmental evidence of associations between motor skills and language development, we also hypothesized that impaired motor skills would be associated with poorer performance on standardized clinical measures of verbal abilities.
 
 To assess motor skills, we used a variety of tests. Including tasks that measured finger tapping speed, pencil motor control, visual-motor integration, and manual motor strength. 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/6a08ec57-924b-45b4-be81-86ad3efa59b0)
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/bce02c1c-fb3a-435e-b75e-840907e4f58c)
 
 Our results show that compared to a typically developing (TD) group, the ASD group showed:
 - 80% of autistic participants impaired on at least one motor measure.
@@ -29,42 +29,50 @@ Our results show that compared to a typically developing (TD) group, the ASD gro
 ![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2b4d1f0c-f613-45c7-a7f8-ced2c277690f)
 
 Interestingly we also found a link between these motor skill challenges and verbal communication abilities (articulation, vocabulary, rapid naming, etc.), especially expressive language, in the autistic participants. Those who had more difficulty with fine motor skills also tended to score lower on tests measuring things like how clearly they spoke, how well they understood language, how quickly they could name objects, and how well they coordinated their mouth movements for speech. Parents of autistic children with lower fine motor skills also reported that their children had more difficulty communicating functionally and more social communication symptoms.This suggests broad coordination of different muscle groups may be important for both motor control and language abilities
+
 ![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/74046002-be24-455a-b09b-faf153d1a74c)
 > Diadochokinesis and Finger Tapping Speed:
 >> Finding: There is a significant negative correlation between diadochokinesis and the Dominant Hand Finger Tapping Test (-0.411).
 >> Explanation: This suggests that children with slower diadochokinetic rates (the ability to perform rapid, alternating movements) tend to also have slower finger tapping speeds, indicating a possible general motor coordination issue.
+>> 
 > Articulation and Motor Skills:
 >> Finding: Significant negative correlations between articulation errors and:
 >>Dominant Hand Grooved Pegboard Test (-0.402)
 >>>VMI (-0.381)
 >>>VMI-Motor (-0.388)
->>>Explanation: Fewer articulation errors are associated with better performance in fine motor tasks (pegboard test), pencil motor coordination (VMI), and motor coordination (VMI-Motor). This highlights a strong link between precise motor control and clear articulation in children with ASD.
->Oromotor Sequences and Motor Skills:
+>>Explanation: Fewer articulation errors are associated with better performance in fine motor tasks (pegboard test), pencil motor coordination (VMI), and motor coordination (VMI-Motor). This highlights a strong link between precise motor control and clear articulation in children with ASD.
+>>>
+> Oromotor Sequences and Motor Skills:
 >>Finding: Significant positive correlations between oromotor sequences and:
 >>>VMI (0.446)
 >>>VMI-Motor (0.452)
 >>Explanation: Better performance in oromotor sequences (ability to coordinate movements of the mouth and face) is linked with better visual-motor integration and motor coordination, indicating interconnectedness between oral motor skills and overall motor abilities.
+>>>
 >Rapid Naming and Motor Skills:
 >>Finding: Significant positive correlations between rapid naming and:
 >>>VMI (0.378)
 >>>VMI-Motor (0.339)
->>Explanation: Faster rapid naming is associated with better visual-motor integration and motor coordination. This suggests that the ability to quickly name objects is linked to overall motor efficiency.
+>>Explanation: Faster rapid naming is associated with better visual-motor integration and motor coordination. This suggests that the ability to quickly name objects is linked to overall motor efficiency
+
 >Expressive Vocabulary and Motor Skills:
 >>Finding: Significant positive correlations between expressive vocabulary and:
 >>>VMI (0.384)
 >>>VMI-Motor (0.472)
 >>Explanation: A richer expressive vocabulary is associated with better visual-motor integration and motor coordination, indicating that expressive language skills may benefit from or influence fine motor control.
+>>>
 >Receptive Vocabulary and Motor Skills:
 >>Finding: Significant positive correlations between receptive vocabulary and:
 >>>Dominant Hand Grooved Pegboard Test (0.333)
 >>>VMI (0.397)
 >>>VMI-Motor (0.411)
+>>>
 >Explanation: Better receptive vocabulary skills are linked with better performance in fine motor tasks and visual-motor integration, suggesting that understanding language might be related to overall motor skills.
 >Expressive Language and Motor Skills:
 >>Finding: Significant positive correlations between expressive language and:
 >>>Dominant Hand Grooved Pegboard Test (0.371)
 >>>VMI (0.521)
 >>>VMI-Motor (0.502)
+>>>
 >>Explanation: Enhanced expressive language skills are associated with better fine motor skills, visual-motor integration, and motor coordination, highlighting the interplay between expressive language abilities and motor functions.
 >Receptive Language and Motor Skills:
 >>Finding: Significant positive correlations between receptive language and:
@@ -72,11 +80,11 @@ Interestingly we also found a link between these motor skill challenges and verb
 >>>VMI (0.475)
 >>>VMI-Motor (0.456)
 >>Explanation: Better receptive language skills correlate with better fine motor skills, visual-motor integration, and motor coordination, underscoring the connection between language comprehension and motor abilities.
+>>>
 >Parent-Reported Social Communication:
 >>Finding: Significant negative correlation between parent-reported social communication and VMI (-0.367).
 >>Explanation: Fewer social communication symptoms as reported by parents are associated with better visual-motor integration, indicating that children with better motor coordination tend to have fewer social communication difficulties.
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/31c3d0e3-550d-44f6-846c-5daa0036254d)
-
+>>
 
 > For the full results, see https://doi.org/10.3389/fpsyt.2024.1379307
 
@@ -89,5 +97,5 @@ Implications
 - Frequent motor skill assessments are crucial for autistic children.
 - Early motor interventions may benefit language development in autistic children.
 - Future research should explore the underlying mechanisms of this link.
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/c2ec17f6-c14d-4493-bf86-e8675c6d4dcf)
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/67a5564a-1b69-4847-a13a-21c84eb13588)
 
