@@ -107,7 +107,7 @@ Possible Explanations
 
 - Motor control may play a role in language development, particularly expressive language -- potentially due to speech production complexity
 
-<img style="margin-right: 20px;" align="left" src="![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8)" width="200" height="300" alt="My Image">
+<img style="margin-right: 20px;" align="left" src=![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8) width="200" height="300" alt="My Image">
 
 Implications
 - Frequent motor skill assessments are crucial for autistic children.
