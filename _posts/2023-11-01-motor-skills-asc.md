@@ -3,7 +3,7 @@ title:  "Beyond Words: Investigating Fine Motor Skills and Verbal Communication 
 
 ---
 > Marian Simarro Gonzalez, Gessica Ni, Valerie Lam, Carly Demopoulos
-[https://doi.org/10.3389/fpsyt.2024.1379307]
+[https://doi.org/10.3389/fpsyt.2024.1379307](https://doi.org/10.3389/fpsyt.2024.1379307)
 >
 
 In this project, we investigate the relationship between motor skills and expressive verbal abilities in autistic individuals from late childhood through adolescence.
