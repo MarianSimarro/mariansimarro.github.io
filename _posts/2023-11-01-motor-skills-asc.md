@@ -30,12 +30,12 @@ Our results show that compared to a typically developing (TD) group, the ASD gro
 - No significant differences in manual motor strength
   
 ![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/36ba809a-deec-47ef-8d47-6769bcccd45a)
-> Our results showed statistically significant group differences in several motor assessments. Participants differed significantly in dominant hand finger tapping speed, grooved pegboard performance for both hands, visual-motor integration (VMI), and VMI motor skills. However, no significant differences were found in grip strength for either hand and non-dominant hand finger tapping speed after correcting for multiple comparisons. We also conducted post hoc analyses for right- and left-hand performance, excluding ambidextrous participants, which confirmed significant differences in left hand finger tapping speed and bilateral grooved pegboard performance
+> Our results showed statistically significant group differences in several motor assessments. Participants differed significantly in dominant hand finger tapping speed, grooved pegboard performance for both hands, visual-motor integration (VMI), and VMI motor skills. However, no significant differences were found in grip strength for either hand and non-dominant hand finger tapping speed after correcting for multiple comparisons. We also conducted post hoc analyses for right- and left-hand performance, excluding ambidextrous participants, which confirmed significant differences in left hand finger tapping speed and bilateral grooved pegboard performance.
 
 
-Interestingly we also found a link between these motor skill challenges and verbal communication abilities (articulation, vocabulary, rapid naming, etc.), especially expressive language, in the autistic participants. Those who had more difficulty with fine motor skills also tended to score lower on tests measuring things like how clearly they spoke, how well they understood language, how quickly they could name objects, and how well they coordinated their mouth movements for speech. Parents of autistic children with lower fine motor skills also reported that their children had more difficulty communicating functionally and more social communication symptoms.This suggests broad coordination of different muscle groups may be important for both motor control and language abilities
+Interestingly we also found a link between these motor skill challenges and verbal communication abilities (articulation, vocabulary, rapid naming, etc.), especially expressive language, in the autistic participants. Those who had more difficulty with fine motor skills also tended to score lower on tests measuring things like how clearly they spoke, how well they understood language, how quickly they could name objects, and how well they coordinated their mouth movements for speech. Parents of autistic children with lower fine motor skills also reported that their children had more difficulty communicating functionally and more social communication symptoms.This suggests broad coordination of different muscle groups may be important for both motor control and language abilities.
 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/5b761a9b-d8cc-4fd1-8be8-921fe2e7ea0f)
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/f9359058-b70e-4425-ab4f-0b279977bd65)
 
 > Diadochokinesis and Finger Tapping Speed:
 >> Finding: There is a significant negative correlation between diadochokinesis and the Dominant Hand Finger Tapping Test (-0.411).
@@ -104,4 +104,5 @@ Implications
 - Early motor interventions may benefit language development in autistic children.
 - Future research should explore the underlying mechanisms of this link.
 
-<img style="margin-right: 20px;" align="left" src="assets/102224223/67a5564a-1b69-4847-a13a-21c84eb13588" width="200" height="300" alt="My Image">
+<img style="margin-right: 20px;" align="left" src="![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8)
+" width="200" height="300" alt="Image of a Kid">
