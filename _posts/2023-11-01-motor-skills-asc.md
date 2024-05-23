@@ -1,5 +1,5 @@
 ---
-title:  "Beyond Words: Investigating Fine Motor Skills and Verbal Communication in Autism
+title:  "Beyond Words: Investigating Fine Motor Skills and Verbal Communication in Autism"
 
 ---
 > Marian Simarro Gonzalez, Gessica Ni, Valerie Lam, Carly Demopoulos
@@ -21,16 +21,21 @@ To assess motor skills, we used a variety of tests. Including tasks that measure
 
 Our results show that compared to a typically developing (TD) group, the ASD group showed:
 - 80% of autistic participants impaired on at least one motor measure.
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/6d93bd21-d7a1-4d64-9760-70a6d778ee73)
+
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/996c68a6-8c86-4ec9-8c5f-eecd89212981)
 
 
 - Significant lower performance in tasks requiring speed, dexterity, and coordination
-- No significant differences in manual motor strength 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2b4d1f0c-f613-45c7-a7f8-ced2c277690f)
+- No significant differences in manual motor strength
+  
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/36ba809a-deec-47ef-8d47-6769bcccd45a)
+> Our results showed statistically significant group differences in several motor assessments. Participants differed significantly in dominant hand finger tapping speed, grooved pegboard performance for both hands, visual-motor integration (VMI), and VMI motor skills. However, no significant differences were found in grip strength for either hand and non-dominant hand finger tapping speed after correcting for multiple comparisons. We also conducted post hoc analyses for right- and left-hand performance, excluding ambidextrous participants, which confirmed significant differences in left hand finger tapping speed and bilateral grooved pegboard performance
+
 
 Interestingly we also found a link between these motor skill challenges and verbal communication abilities (articulation, vocabulary, rapid naming, etc.), especially expressive language, in the autistic participants. Those who had more difficulty with fine motor skills also tended to score lower on tests measuring things like how clearly they spoke, how well they understood language, how quickly they could name objects, and how well they coordinated their mouth movements for speech. Parents of autistic children with lower fine motor skills also reported that their children had more difficulty communicating functionally and more social communication symptoms.This suggests broad coordination of different muscle groups may be important for both motor control and language abilities
 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/74046002-be24-455a-b09b-faf153d1a74c)
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/5b761a9b-d8cc-4fd1-8be8-921fe2e7ea0f)
+
 > Diadochokinesis and Finger Tapping Speed:
 >> Finding: There is a significant negative correlation between diadochokinesis and the Dominant Hand Finger Tapping Test (-0.411).
 >> Explanation: This suggests that children with slower diadochokinetic rates (the ability to perform rapid, alternating movements) tend to also have slower finger tapping speeds, indicating a possible general motor coordination issue.
