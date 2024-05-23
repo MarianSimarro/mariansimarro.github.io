@@ -3,7 +3,7 @@ title:  "Beyond Words: Investigating Fine Motor Skills and Verbal Communication 
 
 ---
 > Marian Simarro Gonzalez, Gessica Ni, Valerie Lam, Carly Demopoulos
-https://doi.org/10.3389/fpsyt.2024.1379307
+[https://doi.org/10.3389/fpsyt.2024.1379307]
 >
 
 In this project, we investigate the relationship between motor skills and expressive verbal abilities in autistic individuals from late childhood through adolescence.
@@ -100,16 +100,18 @@ Interestingly we also found a link between these motor skill challenges and verb
 >>Explanation: Fewer social communication symptoms as reported by parents are associated with better visual-motor integration, indicating that children with better motor coordination tend to have fewer social communication difficulties.
 >>
 
-> For the full results, see https://doi.org/10.3389/fpsyt.2024.1379307
+> For the full results, see [https://doi.org/10.3389/fpsyt.2024.1379307](https://doi.org/10.3389/fpsyt.2024.1379307)
 
 Possible Explanations
 - Motor skills and language development in ASD may be linked in early childhood due to common brain functions (Bedford et al., 2016; Whyatt & Craig, 2012).
 
 - Motor control may play a role in language development, particularly expressive language -- potentially due to speech production complexity
 
+<img style="margin-right: 20px;" align="left" src="![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8)" width="200" height="300" alt="My Image">
+
 Implications
 - Frequent motor skill assessments are crucial for autistic children.
 - Early motor interventions may benefit language development in autistic children.
 - Future research should explore the underlying mechanisms of this link.
 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8)
+
