@@ -46,13 +46,16 @@ Interestingly we also found a link between these motor skill challenges and verb
 >>Dominant Hand Grooved Pegboard Test (-0.402)
 >>>VMI (-0.381)
 >>>VMI-Motor (-0.388)
+>>>
 >>Explanation: Fewer articulation errors are associated with better performance in fine motor tasks (pegboard test), pencil motor coordination (VMI), and motor coordination (VMI-Motor). This highlights a strong link between precise motor control and clear articulation in children with ASD.
 >>>
 > Oromotor Sequences and Motor Skills:
 >>Finding: Significant positive correlations between oromotor sequences and:
 >>>VMI (0.446)
 >>>VMI-Motor (0.452)
+>>>
 >>Explanation: Better performance in oromotor sequences (ability to coordinate movements of the mouth and face) is linked with better visual-motor integration and motor coordination, indicating interconnectedness between oral motor skills and overall motor abilities.
+>>>
 >>>
 >Rapid Naming and Motor Skills:
 >>Finding: Significant positive correlations between rapid naming and:
@@ -64,6 +67,7 @@ Interestingly we also found a link between these motor skill challenges and verb
 >>Finding: Significant positive correlations between expressive vocabulary and:
 >>>VMI (0.384)
 >>>VMI-Motor (0.472)
+>>>
 >>Explanation: A richer expressive vocabulary is associated with better visual-motor integration and motor coordination, indicating that expressive language skills may benefit from or influence fine motor control.
 >>>
 >Receptive Vocabulary and Motor Skills:
@@ -74,21 +78,25 @@ Interestingly we also found a link between these motor skill challenges and verb
 >>>
 >Explanation: Better receptive vocabulary skills are linked with better performance in fine motor tasks and visual-motor integration, suggesting that understanding language might be related to overall motor skills.
 >Expressive Language and Motor Skills:
+>
 >>Finding: Significant positive correlations between expressive language and:
 >>>Dominant Hand Grooved Pegboard Test (0.371)
 >>>VMI (0.521)
 >>>VMI-Motor (0.502)
 >>>
 >>Explanation: Enhanced expressive language skills are associated with better fine motor skills, visual-motor integration, and motor coordination, highlighting the interplay between expressive language abilities and motor functions.
+>>
 >Receptive Language and Motor Skills:
 >>Finding: Significant positive correlations between receptive language and:
->Dominant Hand Grooved Pegboard Test (0.332)
+>>>Dominant Hand Grooved Pegboard Test (0.332)
 >>>VMI (0.475)
 >>>VMI-Motor (0.456)
+>>>
 >>Explanation: Better receptive language skills correlate with better fine motor skills, visual-motor integration, and motor coordination, underscoring the connection between language comprehension and motor abilities.
 >>>
 >Parent-Reported Social Communication:
 >>Finding: Significant negative correlation between parent-reported social communication and VMI (-0.367).
+>>>
 >>Explanation: Fewer social communication symptoms as reported by parents are associated with better visual-motor integration, indicating that children with better motor coordination tend to have fewer social communication difficulties.
 >>
 
@@ -104,5 +112,4 @@ Implications
 - Early motor interventions may benefit language development in autistic children.
 - Future research should explore the underlying mechanisms of this link.
 
-<img style="margin-right: 20px;" align="left" src="![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8)
-" width="200" height="300" alt="Image of a Kid">
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/2ffcc754-dc89-4fb2-85ba-4d4c61474cd8)
