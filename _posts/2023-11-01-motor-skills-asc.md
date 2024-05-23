@@ -103,5 +103,5 @@ Implications
 - Frequent motor skill assessments are crucial for autistic children.
 - Early motor interventions may benefit language development in autistic children.
 - Future research should explore the underlying mechanisms of this link.
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/67a5564a-1b69-4847-a13a-21c84eb13588)
 
+<img style="margin-right: 20px;" align="left" src="assets/102224223/67a5564a-1b69-4847-a13a-21c84eb13588" width="200" height="300" alt="My Image">
