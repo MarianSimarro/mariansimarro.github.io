@@ -18,7 +18,7 @@ In the current study, we measured fine motor abilities of a group of autistic pa
 
 To assess motor skills, we used a variety of tests. Including tasks that measured finger tapping speed, pencil motor control, visual-motor integration, and manual motor strength. 
 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/8fa9d9bc-8ea9-4956-86c8-09809098e909)
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/84e83353-dbaa-462a-9adf-3f70ec32a98d)
 
 Our results show that compared to a typically developing (TD) group, the ASD group showed:
 - 80% of autistic participants impaired on at least one motor measure.
