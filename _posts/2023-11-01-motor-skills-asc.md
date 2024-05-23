@@ -17,7 +17,8 @@ In sum, the prior research on motor development in ASD suggests that motor delay
 In the current study, we measured fine motor abilities of a group of autistic participants in late childhood through adolescence and examined associations between those motor skills and a wide range of verbal abilities. Based on prior research identifying fine motor differences in autism, we hypothesized that autistic participants will score lower on measures of fine motor speed, dexterity, and pencil motor control, but not manual motor strength. Based on early developmental evidence of associations between motor skills and language development, we also hypothesized that impaired motor skills would be associated with poorer performance on standardized clinical measures of verbal abilities.
 
 To assess motor skills, we used a variety of tests. Including tasks that measured finger tapping speed, pencil motor control, visual-motor integration, and manual motor strength. 
-![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/bce02c1c-fb3a-435e-b75e-840907e4f58c)
+
+![imagen](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/8fa9d9bc-8ea9-4956-86c8-09809098e909)
 
 Our results show that compared to a typically developing (TD) group, the ASD group showed:
 - 80% of autistic participants impaired on at least one motor measure.
