@@ -5,25 +5,8 @@ title: teaching
 description: classes, workshops, and teaching material
 nav: true
 nav_order: 5
-display_categories: [Workshop]
+display_categories: [Workshops, Classes and teaching material]
 ---
-
-## Courses
-
-{% include courses.html past='false' %}
-
-<a data-toggle="collapse" href="#pastCourses" role="button">
-    <i class="fas fa-chevron-down"></i> Show Past Courses
-</a>
-
-<div class="collapse" id="pastCourses">
-      {% include courses.html past='false' %}
-</div>
-
-## Workshops
-
-Here you'll find materials for workshops I've been involved in.  
-
 
 <!-- pages/projects.md -->
 <div class="projects">
