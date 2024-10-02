@@ -33,9 +33,11 @@ nav_order: 5
     {% endfor %}
   </div>
 
+
 ## Workshops
 
 Here you'll find materials for workshops I've been involved in.
+
 
   <!-- Display associated workshops -->
   <div class="row row-cols-1 row-cols-md-3">
