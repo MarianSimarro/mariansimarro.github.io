@@ -32,12 +32,10 @@ nav_order: 5
       {% endif %}
     {% endfor %}
   </div>
+
 ## Workshops
 
 Here you'll find materials for workshops I've been involved in.
-
-  <!-- second heading for another section -->
-  ## Workshops
 
   <!-- Display associated workshops -->
   <div class="row row-cols-1 row-cols-md-3">
