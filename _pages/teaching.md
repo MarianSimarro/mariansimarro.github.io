@@ -37,7 +37,6 @@ nav_order: 5
 
 ## Workshops
 
-</div>
   <!-- Display associated workshops -->
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
@@ -46,5 +45,3 @@ nav_order: 5
       {% endif %}
     {% endfor %}
   </div>
-
-</div>
