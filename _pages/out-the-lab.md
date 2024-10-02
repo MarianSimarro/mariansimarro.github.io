@@ -7,6 +7,8 @@ nav: true
 nav_order: 7
 display_categories: [Photography, Volunteering]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 <!-- pages/out-the-lab.md -->
