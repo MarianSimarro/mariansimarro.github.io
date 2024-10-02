@@ -33,12 +33,11 @@ nav_order: 5
     {% endfor %}
   </div>
 
+</div>
 
 ## Workshops
 
-Here you'll find materials for workshops I've been involved in.
-
-
+</div>
   <!-- Display associated workshops -->
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
