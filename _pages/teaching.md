@@ -5,6 +5,7 @@ title: teaching
 description: classes, workshops, and teaching material
 nav: true
 nav_order: 5
+display_categories: [Workshop]
 ---
 
 ## Courses
