@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Work Experience": [
+  "work": [
     {
       "name": "Max Planck Institute for Psycholinguistics",
       "position": "PhD Student",
@@ -79,7 +79,7 @@
       ]
     }
   ],
-  "Service": [
+  "volunteer": [
     {
       "organization": "BCBL Pupillometry Workshop",
       "location": "Donostia, Spain",
@@ -111,7 +111,7 @@
       "highlights": []
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "Max Planck Institute for Psycholinguistics",
       "location": "Nijmegen, Netherlands",
@@ -146,7 +146,7 @@
       "courses": []
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "Rafael del Pino Excellence Scholarship",
       "date": "2024-04-15",
@@ -155,7 +155,7 @@
       "summary": "The aim of the Rafael del Pino Excellence Scholarship Programme is to contribute to the training of Spanish leaders, to the promotion of entrepreneurial spirit and activity in Spain and to the research and dissemination of knowledge."
     }
   ],
-  "Certificates": [
+  "certificates": [
     {
        "name": "Summer School of Linguistics",
       "date": "2024-08-25",
@@ -171,7 +171,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "Publications": [
+  "publications": [
     {
       "name": "Beyond words: an investigation of fine motor skills and the verbal communication spectrum in autism.",
       "publisher": "Frontiers in Psychiatry",
@@ -180,7 +180,7 @@
       "summary": ""
     }    
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Programming",
       "level": "Master",
@@ -204,7 +204,7 @@
       ]
     }
   ],
-  "Languages": [
+  "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker",
@@ -236,7 +236,7 @@
       "icon": ""
     }
   ],
-  "Interests": [
+  "interests": [
     {
       "name": "Autism",
       "icon": "fa-solid fa-puzzle-piece",
@@ -266,7 +266,7 @@
       ]
     }
   ],
-  "References": [
+  "references": [
     {
       "name": "On request",
       "icon": "fa-solid fa-laptop",
