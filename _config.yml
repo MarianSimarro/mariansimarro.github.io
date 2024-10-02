@@ -1,21 +1,22 @@
+
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Marianne
+middle_name: 
+last_name: Simarro Gonzalez
+email: Marian.Simarro@maxplanckschools.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Photos are my own.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mariansimarro.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -77,12 +78,12 @@ bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
-flickr_id: # your flickr id
-github_username: # your GitHub user name
+flickr_id: 199760758 # your flickr id
+github_username: MarianSimarro # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: # your instagram id
+inspirehep_id: # Inspire HEP author ID
+instagram_id: simarromarian # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
@@ -96,7 +97,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: a8IVZQAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -108,12 +109,12 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: MarianneSGon # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I'm always happy to chat, don't hesitate to contact me via any of the above.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -133,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Recent and Ongoing Research # blog_name will be displayed in your blog page
+blog_description: a space where I talk about research I am passionate about
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -313,8 +314,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Simarro Gonzalez]
+  first_name: [Marian, M.]
 
   style: apa
   locale: en
