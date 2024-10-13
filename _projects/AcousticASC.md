@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acoustic Characteristics of Speech in American ASC Children 
-description: 
+description: NAIL lab
 img: 
 importance: 2
 category: current
