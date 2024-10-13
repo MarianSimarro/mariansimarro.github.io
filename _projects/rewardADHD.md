@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gender and Hormonal Influences on Reward Response in ADHD
+title: Reward Response in ADHD and Autism
 description: 
 img:
 importance: 4
