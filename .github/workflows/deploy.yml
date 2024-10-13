@@ -82,6 +82,7 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
+          sudo apt-get install imagemagick
           python3 -m venv venv
           source venv/bin/activate
           pip install --upgrade pip
