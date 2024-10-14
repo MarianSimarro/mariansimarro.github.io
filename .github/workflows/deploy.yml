@@ -90,6 +90,7 @@ jobs:
           export JEKYLL_ENV=production
           bundle exec jekyll build
           jekyll build --trace
+          bundle update json-minify
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
