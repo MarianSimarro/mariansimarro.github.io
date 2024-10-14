@@ -84,10 +84,12 @@ jobs:
         run: |
           python3 -m venv venv
           source venv/bin/activate
+          sudo apt-get install imagemagick
           pip install --upgrade pip
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
+          --trace
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
