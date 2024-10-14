@@ -49,41 +49,6 @@ Extra:
   blog={https://mariansimarro.github.io/blog/2024/beyonwords/},
 }
 
-@misc{simarro_gallo_nd,
-  author={Simarro Gonzalez, M.*†, Gallo, A*†. and Demopoulos, C.},
-  title={Acoustic Characteristics of Speech in American Autistic Children},
-  journal={In prep.},
-  bibtex_show={false},
-  abstract={Differences in acoustic measures in speech production are often described in autism. The ability to produce vowels on the right acoustic frequencies may have a role in the development of social communication, including expressive and receptive language. This study aims to examine the acoustic features of speech of autistic children, and explore the relationships with the development of verbal skills during childhood. We will analyze syllable duration, fundamental frequency (F0), jitter, shimmer, and a dispersion index for the first two formants (F1, F2), as well as F1, F2 and F3 frequencies of vowels of group of autistic children and adolescent and neurotypical peers. We will assess the differences between autistic and allistic (non-autistic) groups, and examine the relationships between acoustic measures and verbal communication skills in autistic children. The primary analysis will use linear mixed-effects models to investigate group differences in all measures (phonetic inventories, lexical diversity, MLU, response latency, naming accuracy, error rates, syllable duration, and acoustical measures).The models will include interactions between group (ASC vs. NT), inventory type (consonant vs. vowel), and word frequency where relevant. Stepwise multilevel regression will be used for post-hoc comparisons on acoustical and behavioral measures. Individual differences will be assessed using linear mixed effects modeling with behavioral measures and individual characteristic estimates.We suspect that multiple clusters of acoustic profiles in ASC could be identified, all leading to the more general clinical descriptions of vocal atypicalities in ASC.},
-  dimensions={true},
-  annotation={* Corresponding author<br>† Equal Contribution},
-  selected={false},
-  year={2024},
-}
 
-@misc{weis_nd,
-  author={Weiss, D., McLaughlin, D. Melguy, Y., Simarro Gonzalez, M. & Kapnoula, E. },
-  title={The Role of Familiarity in Processing Across-Accent Speaker Switching.},
-  journal={In prep.},
-  bibtex_show={false},
-  abstract={Switching between speakers during speech comprehension can impose a processing cost on listeners. Moreover, the cognitive cost for switching between talkers with different accents is asymmetrical: switching from an L2 accent to an L1 accent is less costly than switching from an L1 to an L2 accent. We ask whether familiarity with the L1 accent drives this benefit. This would align with proposed models of listener accommodation in which mappings between a speaker’s production habits and phonemes are stored in memory. In this framework, familiar switches should be easier because they do not require new mappings to be computed in real-time. Rather, the known mappings can be recalled, which is less cognitively demanding. To test this, we randomly assigned L1 Spanish listeners to complete exposure-based training with one of two previously unfamiliar accents (American-accented or Italian-accented Spanish). Participants listened to 30-minute daily extracts of Harry Potter for one week. Then, we used a pupillometry task to assess cognitive load when switching between the familiar and unfamiliar accented speakers. We expect the switching cost to be lower when a familiar talker follows an unfamiliar talker than the reverse.},
-  dimensions={true},
-  annotation={* Corresponding author<br>† Equal Contribution},
-  selected={false},
-  year={2024},
-}
 
-@misc{simarro_magnuson_nd,
-  author={Simarro Gonzalez, M.*, Magnuson, J., Hannagan, T., Beck, N., Carreiras, M.},
-  title={Mitigating catastrophic interference in neural network models of bilingual lexical acquisition.},
-  journal={In prep.},
-  bibtex_show={false},
-  abstract={Catastrophic interference is a classic dilemma for connectionist models. If a neural network is initially trained on one input-output mapping (e.g., mapping semantics to English/EN phonology) and subsequently trained on another one (e.g., mapping semantics to French/FR phonology), the second mapping is likely to virtually overwrite the first -- hence the label "catastrophic interference". On the other hand, savings in relearning is often observed if the network is retrained on the first system, showing that not all knowledge has been lost. McClelland, McNaughton and O'Reilly (1995; see also Kumaran, Hassabis & McClelland, 2016) proposed a division of labor between neocortical and hippocampal pathways that could provide a solution. In Complementary Learning Systems (CLS) theory, long-term memories are stored in cortex, while new learning relies heavily on hippocampal pathways. New learning is influenced by prior learning, but without disrupting prior learning significantly. Gradual consolidation allows new learning to integrate with long-term memory. CLS has not been applied in a detailed way to late second language acquisition. In the current project, we simulated learning of L1 (English/EN) and later acquisition of L2 (French/FR). Models were trained in four stages. (1) We trained an autoencoder network to map phonological inputs (with a slot based approach, replicating phoneme representations at every possible position, with inputs aligned to random starting positions) to identical (but non-shifted) phonological outputs via a hidden layer. (2) We trained the network to map semantic inputs to phonological outputs via the same hidden layer. We mitigated moderate phono-phono mapping interference with regular interleaving of phono-phono and sem-phono training. (3) Once the network could stably perform the EN phono-phono and sem-phono mappings, we began training on FR phonological autoencoding. (4) Finally, we trained the model to map from FR semantics (which only differed from EN by addition of grammatical gender) to FR phonology. Unsurprisingly, each new mapping caused substantial interference, with the FR sem-phono mapping causing massive interference for EN sem-phono. Clearly, it is implausible for L2 to wipe out L1 in humans. Therefore, we explored ways that we might mitigate this strong interference. Specifically, we reserved portions of weights in particular layers for FR training. When we began FR training, we allowed activity to flow via connections trained on EN, but we did not alter these weights during L2 training. As we interleaved training on EN and FR, we alternated between disabling learning for each language's 'dedicated' weights. This coarse analog of CLS is meant only to demonstrate feasibility for planned work to formally implement CLS. This approach appears feasible for late-acquired L2, although results are sensitive to where weights are reserved. Reserving weights in phono-hidden or hidden-output layers has only weak protective effects; we still observe massive interference from FR sem-phono, especially on EN sem-phono. However, reserving weights in the sem-hidden pathway robustly mitigates catastrophic interference. We will discuss strong assumptions in the current approach (e.g., that L1 should be active during L2 training and vice-versa) as well as a proposal for implementing CLS formally.},
-  dimensions={true},
-  annotation={* Corresponding author<br>† Equal Contribution},
-  poster={cls-bilingual-poster-2023.10.17c.pdf},
-  selected={true},
-  additional_info = {Also presented as a poster at the 2023 Society for the Neurobiology of Language Conference, Marseille, France},
-  year={2024},
-}
 
