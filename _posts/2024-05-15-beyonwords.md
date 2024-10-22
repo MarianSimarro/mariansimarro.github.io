@@ -22,15 +22,6 @@ To start, let's review the importance of motor development in children. Motor sk
 2. **Significant lower performance was found in tasks requiring speed, dexterity, and coordination.**
 3. **No significant differences were observed in manual motor strength.**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/84e83353-dbaa-462a-9adf-3f70ec32a98d.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/996c68a6-8c86-4ec9-8c5f-eecd89212981.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 ---
 
 In the current study, we assessed fine motor abilities in a group of autistic participants aged 8 to 17 and analyzed the associations between these motor skills and a broad range of verbal abilities. Autistic participants exhibited lower performance in dominant hand finger tapping speed, grooved pegboard performance, visual-motor integration (VMI), and VMI motor skills. However, no significant differences were found in grip strength or non-dominant hand finger tapping speed. 
@@ -38,12 +29,6 @@ In the current study, we assessed fine motor abilities in a group of autistic pa
 ![Fine Motor Skills Results](https://github.com/MarianSimarro/mariansimarro.github.io/assets/102224223/36ba809a-deec-47ef-8d47-6769bcccd45a)
 
 ### Detailed Motor and Language Correlations:
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/f9359058-b70e-4425-ab4f-0b279977bd65.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 - **Diadochokinesis and Finger Tapping Speed**: A significant negative correlation between diadochokinesis and dominant hand finger tapping speed (**-0.411**).
 - **Articulation and Motor Skills**: Significant negative correlations between articulation errors and grooved pegboard performance (**-0.402**), as well as VMI (**-0.381**) and motor coordination (**-0.388**).
