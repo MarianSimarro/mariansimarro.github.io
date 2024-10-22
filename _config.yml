@@ -307,7 +307,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["autism", "speech production", "spech perception", "computational neuroscience", "behavioural neuroscience", "adhd"] # these tags will be displayed on the front page of your blog
-display_categories: ["autism"] # these categories will be displayed on the front page of your blog
+display_categories: ["research"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
