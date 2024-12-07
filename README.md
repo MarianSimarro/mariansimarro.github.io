@@ -1,4 +1,4 @@
-# Marinne Simarro's personal webpage
+# Marianne Simarro's personal webpage
 
 This is the personal website of Marianne Simarro, which can be visualized at [https://mariansimarro.github.io/](https://mariansimarro.github.io/).
 
