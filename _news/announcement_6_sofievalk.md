@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be visiting [Dr. Sofie Louise Valk 's lab](https://https://cng-lab.github.io/)] at the Max Planck Institute for Human Cognitive and Brain Sciences from January to March.
+I will be visiting [Dr. Sofie Louise Valk 's lab](https://https://cng-lab.github.io/) at the Max Planck Institute for Human Cognitive and Brain Sciences from January to March.
