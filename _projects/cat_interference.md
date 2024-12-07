@@ -1,8 +1,8 @@
 ---
 layout: page
-title: A complementary learning systems approach to to computational modelling of bilingual language learning
-description: MSc thesis
-img: 
+title: 
+description: A complementary learning systems approach to to computational modelling of bilingual language learning
+img: /assets/img/catinterference.png
 importance: 1
 category: past
 related_publications: true
