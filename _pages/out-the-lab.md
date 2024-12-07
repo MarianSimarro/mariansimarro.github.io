@@ -1,15 +1,17 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Outside the lab
+permalink: /personal/
 description: Some of the projects I have worked or am curretly working on
 nav: true
-nav_order: 3
-display_categories: [current, past]
+nav_order: 7
+display_categories: [Photography, Volunteering]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/out-the-lab.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
