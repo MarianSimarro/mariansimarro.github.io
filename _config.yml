@@ -134,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Recent and Ongoing Research # blog_name will be displayed in your blog page
-blog_description: a space where I talk about research I am passionate about
+blog_name: # blog_name will be displayed in your blog page
+blog_description: a space where I talk about things I am passionate about
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
