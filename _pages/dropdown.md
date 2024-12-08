@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-nav: false
+title: teaching
+nav: true
 nav_order: 6
 dropdown: true
 children:
