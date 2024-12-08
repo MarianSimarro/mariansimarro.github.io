@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Teaching
 nav: false
-nav_order: 8
+nav_order: 6
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Teaching
+    permalink: /teaching/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Workshops
+    permalink: /workshops/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Outreach
+    permalink: /outreach/
 ---
