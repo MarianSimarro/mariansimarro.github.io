@@ -17,4 +17,3 @@ display_categories: [Workshops]
 Assistant, BCBL Pupillometry Workshop, May 2024
 A hands-on workshop covering: (1) physiology, (2) design considerations, (3) data preparation in R, (4) data analysis in R (GCA and GAMMs), and (5) applications in language research
 
-</div>
