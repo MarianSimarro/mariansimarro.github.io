@@ -2,7 +2,7 @@
 layout: page
 title: Exploring Functional Gradients in EEG
 description: EEG analysis tools for power spectra, connectivity, and gradients using LEMON dataset.
-img: eo_avg_matrix_alpha.png
+img: /assets/img/eo_avg_matrix_alpha.png
 importance: 1
 category: past
 ---
