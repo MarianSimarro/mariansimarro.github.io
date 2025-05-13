@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: Acoustic Characteristics of Speech in American ASC Children 
+title: Acoustic Characteristics of Speech in American Autistic Children
+description: 
 img: 
 importance: 2
 category: current
